@@ -1,0 +1,11 @@
+*{
+    color: red;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    cursor: pointer;
+    margin: 20px;
+    font-size: 20px;
+}
